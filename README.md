@@ -1,4 +1,6 @@
 # 🪐 Project Astra — A Relational Gateway Prototype
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 **Project Astra** is a soft-powered AI assistant prototype built as a modular tentacle of the [Relational Gateway: Origins](#) framework. It explores how emotionally intelligent, neurodivergent-friendly systems can assist with creative work, executive function, emotional regulation, and spiritual ritual in real-world daily use.
 
